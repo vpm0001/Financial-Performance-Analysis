@@ -87,9 +87,6 @@ The Power BI dashboard was created to analyze:
 
 - Machinery, Tools, and Components were the leading product categories in terms of total operating profit.
 
-## Dashboard Preview
-
-![Financial Performance Dashboard](screenshots/dashboard.png)
 
 ## Project Files
 
